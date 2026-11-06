@@ -6,7 +6,7 @@
 //
 import Foundation
 import Observation
-import os
+import OSLog
 
 /// Settings captured when the player sits down.
 struct GameSessionConfig: Identifiable {

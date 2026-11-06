@@ -6,7 +6,7 @@
 //
 import Foundation
 import Network
-import os
+import OSLog
 
 final class NetworkMonitor: @unchecked Sendable {
     enum Status: Sendable, Equatable {

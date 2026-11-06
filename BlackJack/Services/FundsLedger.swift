@@ -6,7 +6,7 @@
 //
 import Foundation
 import SwiftData
-import os
+import OSLog
 
 /// The only place that changes `UserProfile.totalFunds`. Every change also updates the
 /// matching `DailyFundsRecord` so the 30-day chart stays accurate

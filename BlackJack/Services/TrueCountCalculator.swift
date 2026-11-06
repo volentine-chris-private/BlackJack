@@ -7,7 +7,7 @@
 import Foundation
 import Observation
 import SwiftData
-import os
+import OSLog
 
 /// Hi-Lo running/true count calculator backed by SwiftData (`CardCountState`)
 ///

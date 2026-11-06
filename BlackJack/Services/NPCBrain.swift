@@ -5,7 +5,7 @@
 //  Created by Chris Volentine on 11/2/26.
 //
 import Foundation
-import os
+import OSLog
 
 /// Seating, bet sizing and playing decisions
 enum NPCBrain {
